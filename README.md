@@ -1,7 +1,7 @@
 # Full Stack Development Lab — Practical Assignments
 
-Name: Swayam Mandhani<br>
-Roll No: 123B1B184<br>
+Name: Pruthviraj Mule<br>
+Roll No: 123B1B199<br>
 Class: B.Tech<br>
 Division: C <br>
 Subject: Full Stack Development Lab (Code: BCE26VS01)<br>
